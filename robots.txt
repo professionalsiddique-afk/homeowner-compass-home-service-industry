@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://homeowner-compass-home-service-industry.netlify.app/sitemap.xml
